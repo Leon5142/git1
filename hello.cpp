@@ -4,7 +4,8 @@ int main()
 {
   int t;
   cin>>t;
-  while (t--){
+  while (t--)
+  {
     std::cout<<"Hello World\n";
   }
 }
